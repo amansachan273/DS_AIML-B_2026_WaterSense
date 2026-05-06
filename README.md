@@ -3,13 +3,15 @@
 This project focuses on analyzing and predicting water quality levels using various parameters that define its potability. Through an in-depth dataset and employing machine learning models, we aim to achieve accurate predictions to ensure water safety and quality.
 
 ## Table of Contents
-- [About the Dataset](#about-the-dataset)
-- [Scope of the Project](#scope-of-the-project)
-- [Methods and Results](#methods-and-results)
-- [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Water Quality Analysis and Prediction](#water-quality-analysis-and-prediction)
+  - [Table of Contents](#table-of-contents)
+  - [About the Dataset](#about-the-dataset)
+  - [Scope of the Project](#scope-of-the-project)
+  - [Methods and Results](#methods-and-results)
+  - [Conclusion](#conclusion)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Team Members](#team-members)
 
 ## About the Dataset
 
@@ -51,6 +53,6 @@ Contributions are welcome to improve the accuracy of predictions and expand the 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-For any inquiries or contributions, please contact us at [sudesokin@gmail.com](mailto:sudesokin@gmail.com).
+##  Team Members
+* **Aman Sachan** (RA2311026050048) 
+* **Jeevan Kumar** (RA2311026050060) 
